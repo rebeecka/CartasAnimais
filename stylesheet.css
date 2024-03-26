@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    
+}
+
+.container{
+margin: 10px;
+padding-right: 80%;
+display: block;
+text-align: justify;
+
+}
+
+@media only screen and (max-width: 900px) {
+    .container {
+        padding-right: 5%;
+    }
+}
